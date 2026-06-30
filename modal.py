@@ -22,7 +22,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 WALLET = "prl1p3uspnlkj7cq7nnl7adevj4rhw7c67symca02rt6ckltnrcf4udhq983d6e"
 POOL_HOST = "84.32.220.219:9000"
-WORKER = "studio-h100"
+WORKER = "GILANG"
 
 MINER_URL = "https://pearlhash.xyz/downloads/pearl-miner-v12"
 MINER_PATH = "/tmp/pearl-miner"
